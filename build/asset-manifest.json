@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.js": "/static/js/main.c5f33be2.chunk.js",
+    "main.js.map": "/static/js/main.c5f33be2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2c219ed3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2c219ed3.js.map",
+    "static/css/2.b0704b7a.chunk.css": "/static/css/2.b0704b7a.chunk.css",
+    "static/js/2.66631462.chunk.js": "/static/js/2.66631462.chunk.js",
+    "static/js/2.66631462.chunk.js.map": "/static/js/2.66631462.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e442611af63235bd7327a75927c100f2.js": "/precache-manifest.e442611af63235bd7327a75927c100f2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.b0704b7a.chunk.css.map": "/static/css/2.b0704b7a.chunk.css.map",
+    "static/js/2.66631462.chunk.js.LICENSE.txt": "/static/js/2.66631462.chunk.js.LICENSE.txt",
+    "static/media/acessos-horas.svg": "/static/media/acessos-horas.4a2d8ad3.svg",
+    "static/media/analytics-bg12.jpg": "/static/media/analytics-bg12.fcb49e56.jpg",
+    "static/media/background-indicator.jpg": "/static/media/background-indicator.6dda5cd3.jpg",
+    "static/media/calendar.svg": "/static/media/calendar.c73d96b2.svg",
+    "static/media/clock-2.svg": "/static/media/clock-2.51639ddf.svg",
+    "static/media/clock-time.svg": "/static/media/clock-time.b85285ac.svg",
+    "static/media/conclusao.svg": "/static/media/conclusao.b0d9dfc8.svg",
+    "static/media/crown.svg": "/static/media/crown.85693ed4.svg",
+    "static/media/logo-mp-branco.svg": "/static/media/logo-mp-branco.a47f9091.svg",
+    "static/media/logo-mp.svg": "/static/media/logo-mp.86bff31d.svg",
+    "static/media/media.svg": "/static/media/media.280db470.svg",
+    "static/media/moon.svg": "/static/media/moon.bd7c1a63.svg",
+    "static/media/ranking.svg": "/static/media/ranking.944de898.svg",
+    "static/media/star.svg": "/static/media/star.7484aa4c.svg",
+    "static/media/sun.svg": "/static/media/sun.e08ea220.svg",
+    "static/media/total-acessos.svg": "/static/media/total-acessos.89b7de06.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c219ed3.js",
+    "static/css/2.b0704b7a.chunk.css",
+    "static/js/2.66631462.chunk.js",
+    "static/js/main.c5f33be2.chunk.js"
+  ]
+}
