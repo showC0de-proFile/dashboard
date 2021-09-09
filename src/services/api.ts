@@ -2,8 +2,6 @@
     import {sortArrayObjects} from '../utils/sortArrayObjects';
     
 
-
-
     const baseURL = 'https://script.google.com/macros/s/AKfycbyylQTbX00NZtSMDQtaa99DNqKhEwC8o6lqMwP4fjmaLF8OUazw/exec';
     
     export interface ITaskCompleted {
