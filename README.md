@@ -21,14 +21,7 @@ If you believe that in any way this project can help you, feel free to use it or
 ## Objective
 <p><img align="center" align='left' src='https://github.com/tsmDevProjects/dashboard/blob/main/vendor/img/d5.png' alt="tsmsp" /></p>
 
-## Objective
-<p><img align="center" align='left' src='https://github.com/tsmDevProjects/dashboard/blob/main/vendor/img/d6.png' alt="tsmsp" /></p>
 
-## Objective
-<p><img align="center" align='left' src='https://github.com/tsmDevProjects/dashboard/blob/main/vendor/img/d7.png' alt="tsmsp" /></p>
-
-## Objective
-This application has been created to evolve my skills as a front-end developer.
 
 ## Demo
 <p align="left"> <a href="https://thiagomessias.com" target="_blank">click here</a></p>
