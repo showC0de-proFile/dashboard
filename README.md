@@ -6,6 +6,10 @@ If you believe that in any way this project can help you, feel free to use it or
 
 
 ## Login screen
+
+LOGIN: user
+PASSWORD: 123
+
 <p><img align="center" align='left' src='https://github.com/tsmDevProjects/dashboard/blob/main/vendor/img/d1.png' alt="tsmsp" /></p>
 
 ## Overview Sreen
