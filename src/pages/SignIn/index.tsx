@@ -7,7 +7,7 @@ import Button from '../../components/Button';
 
 import { useAuth } from '../../hooks/auth';
 
-import bgSigin from '../../assets/backgrounds/analytics-bg12.jpg';
+import bgSigin from '../../assets/backgrounds/analytics-bg8.jpg';
 
 // import bgVideo from '../../assets/video.mp4';
 
@@ -33,7 +33,7 @@ const SignIn: React.FC = () => {
 
             
             <Logo>
-                <img src={logoImgB} alt="MicroPower Analytics" /> 
+                <img src={logoImgB} alt="Dashboard Analytics" /> 
                 <h2>analytics</h2>
             </Logo>
 
@@ -60,10 +60,10 @@ const SignIn: React.FC = () => {
                 <source src={bgVideo} type="video/mp4"/>
             </video> */}
 
-            <img src={bgSigin} alt="MicroPower"/>
+            <img src={bgSigin} alt="myDashboard"/>
 
             <Version>
-                <div>Micro Power - Analytics - Versão 1.2.0</div> 
+                <div>Dashboard - Analytics - Versão 1.2.0</div> 
             </Version>
         </Container>
 
