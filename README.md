@@ -21,8 +21,7 @@ PASSWORD: 123
 
 
 ## Demo
-[<p align="left"> <a href="https://thiagomessias.com" target="_blank">DASHBOARD</a></p>
-](url)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
