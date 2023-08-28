@@ -5,7 +5,7 @@ This app was built with the aim of improving my knowledge and studies in react-j
 If you believe that in any way this project can help you, feel free to use it or improve it.
 
 
-## Login screen
+## Login screen.
 
 LOGIN: user
 PASSWORD: 123
