@@ -1,4 +1,4 @@
-# Dashboard with react-js and type script
+# Dashboard with react-js and type script.
 
 
 This app was built with the aim of improving my knowledge and studies in react-js and typing.
